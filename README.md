@@ -4,7 +4,7 @@
 
 3. UFL email:watson.jlee@ufl.edu
 
-4.System: Microsoft Windows 11 Home
+4. System: Microsoft Windows 11 Home
 
 5. Compiler:MSVC compiler
 
